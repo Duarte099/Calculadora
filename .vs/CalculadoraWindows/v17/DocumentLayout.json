@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Duarte\\Downloads\\CalculadoraWindows\\CalculadoraWindows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5195DE7E-CA15-4D7C-B5E5-F92EE2BB5384}|CalculadoraWindows.vbproj|c:\\users\\duarte\\downloads\\calculadorawindows\\calculadorawindows\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5195DE7E-CA15-4D7C-B5E5-F92EE2BB5384}|CalculadoraWindows.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5195DE7E-CA15-4D7C-B5E5-F92EE2BB5384}|CalculadoraWindows.vbproj|C:\\Users\\Duarte\\Downloads\\CalculadoraWindows\\CalculadoraWindows\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5195DE7E-CA15-4D7C-B5E5-F92EE2BB5384}|CalculadoraWindows.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Duarte\\Downloads\\CalculadoraWindows\\CalculadoraWindows\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Duarte\\Downloads\\CalculadoraWindows\\CalculadoraWindows\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwHEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T08:40:21.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Duarte\\Downloads\\CalculadoraWindows\\CalculadoraWindows\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\14395\\source\\repos\\CalculadoraWindows\\Form1.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\14395\\source\\repos\\CalculadoraWindows\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-02T08:40:21.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
